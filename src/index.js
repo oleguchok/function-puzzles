@@ -1,1 +1,1 @@
-console.log('hello')
+import partial from "./partial-application";
