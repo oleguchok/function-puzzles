@@ -1,7 +1,7 @@
 class BaseLogger {
-    log(message) {
-        console.log(message)
-    }
+  static log(message) {
+    console.log(message);
+  }
 }
 
 export default BaseLogger;
